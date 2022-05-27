@@ -1,0 +1,225 @@
+@media only screen and (max-width:1200px){
+    .bImg{
+        margin-top: -30px !important;
+    }
+    .brath{
+        width: 96px;
+    }
+    .nav1{
+        height: 80px !important;
+    }
+    .navCon{
+        width: max-content !important;
+        margin: -30px 25px 0 0 !important;
+        color: #fff !important;
+    }
+    .text1{
+        margin-left: 25% !important;
+        font-size: 10px !important;
+    }
+    .slideCap, .slideContent{
+        margin-left: 10% !important;
+        margin-right: 0 !important;
+    }
+} 
+
+
+@media only screen and (max-width: 1230px){
+    .aus{
+        width: 100% !important;
+        text-align: center;
+        margin: auto;
+        margin-bottom: 50px !important;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .p1{
+        padding-right: 10px !important;
+        padding-left: 10px !important;
+        text-align: center !important;
+    }
+    .p2{
+        max-width: 150px !important;
+        min-width: 75px !important;
+        text-align: center !important;
+        margin: auto !important;
+    }
+}
+
+@media only screen and (min-width: 1300px){
+    .p2{
+        max-width: 350px !important;
+    }
+}
+
+
+@media only screen and (max-width: 992px){
+    .hidden{
+        display: block !important;
+    }
+    .notSoHidden{
+        display: none !important;
+    }
+    .caption1, .bltPoints, .btn2, .c4, .cap3, .t3, .des2{
+        text-align: center !important;
+    }
+    .btn2{
+        display: block !important;
+        margin-right: auto !important;
+        margin-left: auto !important;
+    }
+    .c4{
+        margin: auto !important;
+        margin-top: 15px !important;
+        margin-bottom: 15px !important;
+    }
+    .bt2{
+        margin: auto !important;
+        display: block !important;
+    }
+    .des2{
+        max-width: 100% !important;
+    }
+    .pB2{
+        margin-left: 35vw !important;
+    }
+    .nB2{
+        margin-right: 35vw !important;
+    }
+    .carCap{
+        display: none !important;
+        opacity: 0 !important;
+    }
+}
+
+@media only screen and (max-width: 1400px){
+    .markers{
+        display: none !important;
+        text-align: center !important;
+    }
+    .trBr{
+        margin: 50px 0 50px 0 !important;
+    }
+    .gI{
+        display: inline-block !important;
+    }
+    .gI1{
+        margin-bottom: 25px;
+    }
+    .r2{
+        background-color: #A62120 !important;
+    }
+    .bImg{
+        margin-left: 75px !important;
+        margin-top: 0px  !important;
+    }
+}
+
+@media only screen and (max-width: 700px){
+    .carouselExampleControls{
+        width: 100% !important;
+    }
+    .q2{
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        width: 100% !important;
+    }
+    .widthDiv{
+        margin: 0px !important;
+        max-width: 100% !important;
+    }
+    .qI{
+        margin: 0 !important;
+        width: 100% !important;
+    }
+    .q1{
+        width: 100% !important;
+        height: auto !important;
+    }
+    .holder{
+        width: 100% !important;
+    }
+    .pB, .nB{
+        width: max-content !important;
+        height: max-content !important;
+        margin-top: 100% !important;
+    }
+    .pB{
+        margin-left: 20% !important;
+    }
+    .nB{
+        margin-right: 20% !important;
+    }
+    .pI, .nI{
+        width: 50px !important;
+        height: 50px !important;
+    }
+    .pI:hover, .nI:hover, .nI, .pI{
+        color: #fff !important;
+        opacity: 1 !important;
+    }
+    .img2, .imgHolder1{
+        width: 80% !important;
+    }
+    .img3{
+        max-width:100% !important;
+        width: 24vw !important;
+    }
+    .center1{
+        width: 80% !important;
+    }
+    .desc2{
+        width: 100% !important;
+        text-align: center !important;
+    }
+    .btns1{
+        display: flex !important;
+    }
+    .c5{
+        width: 80% !important;
+    }
+    .spn3, .spn4{
+        max-width: 100% !important;
+        text-align: center !important;
+    }
+    .c4, .cap3, .t4, .t2, .t3{
+        width: 100% !important;
+        padding: 0 10px 0 10px !important;
+        text-align: center !important;
+    }
+    .pB2, .nB2, .carousel-indicators{
+        display: none !important;
+    }
+    .navCon{
+        right: 0px !important;
+        margin-right: -20px !important;
+        padding-right: 0px !important;
+    }
+    .bImg{
+        margin-left: 5px !important;
+    }
+}
+
+@media only screen and (max-width: 480px)
+{
+    .img3{
+        width: 23vw !important;
+    }
+}
+
+@media only screen and (max-width: 1199px){
+    .pdfIcon{
+        display: block !important;
+    }
+    .pdfIcon2{
+        display: none !important;
+    }
+    .navCon{
+        position: absolute !important;
+        right: 40px !important;
+        top: 50px ;
+        text-align: center !important;
+        border-radius: 20px !important;
+    }
+}
